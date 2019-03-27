@@ -1,13 +1,7 @@
-_Update the text below and preview. Copy and paste the text in the preview direrctly into an email and send!_
-
-***
-
-<br>
-
-Dear [_name of collaborator_]-
+Dear {_name of collaborator_}-
 
 
-I'd like to invite you to participate in the [_project name_] via the [abra-collaboratory reproducible research framework](https://github.com/callahantiff/Abra-Collaboratory) hosted on GitHub.
+I'd like to invite you to participate in the {_project name_} via the [abra-collaboratory reproducible research framework](https://github.com/callahantiff/Abra-Collaboratory) hosted on GitHub.
 
 The [abra-collaboratory reproducible reserach framework](https://github.com/callahantiff/Abra-Collaboratory) will allow me to use GitHub as a one-stop-shop for all aspects of my project.
 
@@ -32,5 +26,4 @@ Then, review the [Abra-Collaboratory guidelines](https://github.com/callahantiff
 <br>
 
 Best-
-
-[_Your Name Here_]
+{_Your Name Here_}
