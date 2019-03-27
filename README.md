@@ -3,6 +3,11 @@ This repository contains more than just code, it provides a framework for reprod
 
 <img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
 
+Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your reserach.
+
+![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square)  
+[![HitCount](http://hits.dwyl.com/callahantiff/pheknowvec.svg?style=flat-square)](http://hits.dwyl.com/callahantiff/pheknowvec)
+
 <br>
 
 ## Getting Started  
@@ -12,6 +17,7 @@ To get started, please follow the steps listed below:
 * [Fork the Project Repository](#fork-the-project-repository)
 * [Fork the Project Wiki](#fork-the-project-wiki)
 * [Add Projects Boards](#add-projects-boards)
+* [Verify Issue Templates Transfer](#verify-issue-templates-transfer)
 * [Invite Collaborators](#invite-collaborators)
 
 
@@ -91,7 +97,7 @@ Once you have performed these steps, push the green button and copy the copy. Re
 
 <br>
 
-- [x] **Verify Issue Templates Transfer** 
+### Verify Issue Templates Transfer
 If you correctly cloned the "Abra-Collaboratory" repository, you should see the follow documents in your project homepage:
 
 <img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/cloned_repo.png">
@@ -106,3 +112,7 @@ Now that you have cloned the repository, wiki, have copied the project boards, a
 You are now ready to invite your collaborators! To make this process easier, we have written a template email, which you will find [here](https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/New_Collaborators_Invitation_Email.md). To use this template, update the slots denoted with "{}" and navigate to the "Preview Button". At that point, you should see something similar to the image shown below. From the "Preview", copy and paste the text directly into an email.
 
 <img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/collaborator-email.png">
+
+_____
+
+Return to [Menu](#getting-started)
