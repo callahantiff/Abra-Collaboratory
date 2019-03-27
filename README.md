@@ -18,7 +18,7 @@ Let us know if you decide to use this framework, we'd love to feature you as a c
 <br>
 
 ## Getting Started  
-Please note that we are working on automating the process of settting up a new reproducible reserach project. In the meantime, follow the instructions below.
+Please note that we are working on automating the process of settting up a new reproducible research project. In the meantime, follow the instructions below.
 
 To get started, please follow the steps listed below:
 * [Fork the Project Repository](#fork-the-project-repository)
