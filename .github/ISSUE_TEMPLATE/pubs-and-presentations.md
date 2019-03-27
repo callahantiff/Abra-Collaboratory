@@ -7,7 +7,7 @@ assignees: callahantiff
 
 ---
 
-**Pub or Presentation:** What arer you submitting?
+**Pub or Presentation:** What are you submitting?
 
 **Submission Site:** Where are you submitting to?
 
