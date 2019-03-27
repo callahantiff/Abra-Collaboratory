@@ -2,7 +2,7 @@
 name: Project Organization Tasks
 about: Add a task related to the organization of the project
 title: 'TODO - Project Organization: short description of needed task'
-labels: organization
+labels: project organization
 assignees: callahantiff
 
 ---
