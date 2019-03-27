@@ -1,7 +1,7 @@
 # Abra-Collaboratory
-This repository contains more than just code, it provides a framework for reproducible research and collaboration in the form of a detailed and transparent narrative of a project's research process. 
+This repository contains more than just code, it provides a framework for reproducible research and collaboration in the form of a detailed and transparent narrative of a project's research process. This repository documents our attempt to create a reproducible research platform using native GitHub functionality. Why GitHub? Honestly, because there are several built-in functions that make it well-suited for out-of-the-box use as a reproducible research platform.
 
-This rerpository documents our attempt to create a reproducible research platform using native GitHub functionality. Why GitHub? Honestly, because there are several built-in functions that make it well-suited for out-of-the-box use as a reproducible research platform. If you are new to GitHub or if you'd like to better understand how we leverage GitHub for reproducible research, we recommend that you start with our [Tutorial](https://github.com/callahantiff/Abra-Collaboratory/wiki/Using-GitHub-as-a-Reproducible-Research-Platform). It is our hope that this tutorial will be useful to collaborators, regardless of their experience with GitHub.
+If you are new to GitHub or if you'd like to better understand how we leverage GitHub for reproducible research, we recommend that you start with our [Tutorial](https://github.com/callahantiff/Abra-Collaboratory/wiki/Using-GitHub-as-a-Reproducible-Research-Platform). It is our hope that this tutorial will be useful to collaborators, regardless of their experience with GitHub.
 
 In addition to the tutorial, we have drafted some simple [guidelines](https://github.com/callahantiff/Abra-Collaboratory/wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83) that we (and hopefully our collaborators 😄) will follow in our quest for reproducibility. If you have suggestions, please let us know by making an issue [here](https://github.com/callahantiff/Abra-Collaboratory/issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
 
@@ -9,10 +9,10 @@ In addition to the tutorial, we have drafted some simple [guidelines](https://gi
 
 Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your reserach.
 
-![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=9cf&style=plastic)  [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square) ![HitCount](http://hits.dwyl.com/callahantiff/Abra-Collaboratory.svg&style=flat-square) ![Github all releases](https://img.shields.io/github/downloads/callahantiff/Abra-Collaboratory/total.svg?color=dodgerblue&style=flat-square)
 
 
-<!---[![HitCount](http://hits.dwyl.com/callahantiff/Abra-Collaboratory.svg?style=flat-square)](http://hits.dwyl.com/callahantiff/Abra-Collaboratory)--->
+<!------>
 
 <br>
 
