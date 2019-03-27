@@ -1,12 +1,12 @@
 # Abra-Collaboratory
 This repository contains more than just code, it provides a framework for reproducible research and collaboration in the form of a detailed and transparent narrative of a project's research process. For detailed information on how we use GitHub as a reproducible research platform, click [here](https://github.com/callahantiff/Abra-Collaboratory/wiki/Using-GitHub-as-a-Reproducible-Research-Platform).
 
-<img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
+<img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=flat-square" alt="git-AbraCollaboratory">
 
 Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your reserach.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square)  
-[![HitCount](http://hits.dwyl.com/callahantiff/pheknowvec.svg?style=flat-square)](http://hits.dwyl.com/callahantiff/pheknowvec)
+[![HitCount](http://hits.dwyl.com/callahantiff/Abra-Collaboratory.svg?style=flat-square)](http://hits.dwyl.com/callahantiff/Abra-Collaboratory)
 
 <br>
 
