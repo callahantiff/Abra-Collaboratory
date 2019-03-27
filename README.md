@@ -3,11 +3,13 @@ This repository contains more than just code, it provides a framework for reprod
 
 If you are new to GitHub or if you'd like to better understand how we leverage GitHub for reproducible research, we recommend that you start with our [Tutorial](https://github.com/callahantiff/Abra-Collaboratory/wiki/Using-GitHub-as-a-Reproducible-Research-Platform). It is our hope that this tutorial will be useful to collaborators, regardless of their experience with GitHub.
 
-In addition to the tutorial, we have drafted some simple [guidelines](https://github.com/callahantiff/Abra-Collaboratory/wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83) that we (and hopefully our collaborators 😄) will follow in our quest for reproducibility. If you have suggestions, please let us know by making an issue [here](https://github.com/callahantiff/Abra-Collaboratory/issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
+In addition to the tutorial, we have drafted some simple [guidelines](https://github.com/callahantiff/Abra-Collaboratory/wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83) that we (and hopefully our collaborators) will follow in our quest for reproducibility. If you have suggestions, please let us know by making an issue [here](https://github.com/callahantiff/Abra-Collaboratory/issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
 
 <img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
 
-Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your reserach.
+Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your reserach. We also encourage you to keep the Abra-Collaboratory badge (shown above) on your repo as an indicator of your intent to conduct reproducible researrch.
+
+### Project Stats
 
 ![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square) ![HitCount](http://hits.dwyl.com/callahantiff/Abra-Collaboratory.svg&style=flat-square) ![Github all releases](https://img.shields.io/github/downloads/callahantiff/Abra-Collaboratory/total.svg?color=dodgerblue&style=flat-square)
 
