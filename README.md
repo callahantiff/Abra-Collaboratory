@@ -27,6 +27,7 @@ To get started, please follow the steps listed below:
 
 
 ### Fork the Project Repository
+- Switch to the repository's development branch
 - Open a terminal and create a local clone of the repository
 ```bash
 $ git clone https://github.com/callahantiff/Abra-Collaboratory.git
