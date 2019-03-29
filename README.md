@@ -27,29 +27,14 @@ To get started, please follow the steps listed below:
 
 
 ### Fork the Project Repository
-- Switch to the repository's development branch
-- Open a terminal and create a local clone of the repository
-```bash
-$ git clone https://github.com/callahantiff/Abra-Collaboratory.git
-Cloning into 'Abra-Collaboratory'...
-remote: Enumerating objects: 91, done.
-remote: Counting objects: 100% (91/91), done.
-remote: Compressing objects: 100% (74/74), done.
-remote: Total 91 (delta 15), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (91/91), done.
-```
 
-- Create a new repository in your GitHub profile and name it "Abra-Collaboratory"
-```bash
-$ curl -u 'username' https://api.github.com/user/repos -d '{"name":"Abra-Collaboratory"}'
-```
+- From this project, fork the repository by clicking the "Fork" button in the upper right hand corner, as shown below.
 
-- Change directories to the "Abra-Collaboratory" repository you just cloned and update the origin branch to the url for the new GitHub project you just created. That's it! Before moving onto the next step, verify that you have the same files in your new repository that are in the original "Abra-Collaboratory" project.
+<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/development/resources/documentation/images/wiki/forking.png">
+
+- Once forked, move to the directory where you would like to download clone your fork so you have a copy locally.
 ```bash
-$ cd Abra-Collaboratory
-$ git remote rm origin
-$ git remote add origin https://github.com/{username}/Abra-Collaboratory.git
-$ git push -u origin master
+$ git clone https://github.com/{username}/Abra-Collaboratory.git
 ```
 
 <br>
@@ -67,7 +52,7 @@ remote: Total 47 (delta 20), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (47/47), done.
 ```
 
-- Then, go to Wiki [here](https://github.com/username/Abra-Collaboratory/wiki) and create an empty homepage (example shown below):
+- Then, go to the Wiki in your forked repository:
 <img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/wiki_clone.png">
 
 - Once you have crated the wiki page, complete the final steps, in the order shown below.
