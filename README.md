@@ -21,6 +21,7 @@ Please note that we are working on automating the process of settting up a new r
 To get started, please follow the steps listed below:
 * [Fork the Project Repository](#fork-the-project-repository)
 * [Fork the Project Wiki](#fork-the-project-wiki)
+* [Update hyperlinks](#update-hyperlinks)  
 * [Add Projects Boards](#add-projects-boards)
 * [Verify Issue Templates Transfer](#verify-issue-templates-transfer)
 * [Invite Collaborators](#invite-collaborators)
@@ -70,6 +71,13 @@ remote: Resolving deltas: 100% (16/16), done.
 To https://github.com/{user}/Abra-Collaboratory.wiki.git
  + 4bba267...599d6ec master -> master (forced update)
 ```
+
+<br>
+
+### Update Hyperlinks
+Once you have forked the repo and the wiki page, you should then make sure that you have updated the following hyperlinks:
+- _Wiki: To Do List_ — update all hyperlinks on this page to the appropriate board in your repo
+- _Wiki: Project Meetings_ — hyperlink should point to the meetings project in your repor
 
 <br>
 
