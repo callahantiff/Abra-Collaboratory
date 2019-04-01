@@ -3,9 +3,7 @@ Dear {_name of collaborator_}-
 
 I'd like to invite you to participate in the {_project name_} via the [abra-collaboratory reproducible research framework](https://github.com/callahantiff/Abra-Collaboratory) hosted on GitHub.
 
-The [abra-collaboratory reproducible reserach framework](https://github.com/callahantiff/Abra-Collaboratory) will allow me to use GitHub as a one-stop-shop for all aspects of my project.
-
-It is my hope that we can use this repository to collaborate and interact on my project in the following ways:
+The [abra-collaboratory reproducible research framework](https://github.com/callahantiff/Abra-Collaboratory) will allow me to use GitHub as a one-stop-shop for all aspects of my project. It is my hope that we can use this repository to collaborate and interact on my project in the following ways:
   - [x] Detailed project documentation and decision tracking
   - [x] Documenting and archiving project meeting minutes
   - [x] Organizing to-do lists, issues, and keeping track of completed work
