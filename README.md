@@ -44,7 +44,7 @@ $ git clone https://github.com/{username}/Abra-Collaboratory.git
 - Fork the wiki into your local "Abra-Collaboratory" directory.
 
 ```bash
-$ git clone https://github.com/callahantiff/Abra-Collaboratory.wiki.git
+$ git clone https://github.com/{username}/Abra-Collaboratory.wiki.git
 Cloning into 'Abra-Collaboratory.wiki'...
 remote: Enumerating objects: 47, done.
 remote: Counting objects: 100% (47/47), done.
@@ -68,7 +68,7 @@ Compressing objects: 100% (76/76), done.
 Writing objects: 100% (93/93), 6.46 MiB | 1.82 MiB/s, done.
 Total 93 (delta 16), reused 0 (delta 0)
 remote: Resolving deltas: 100% (16/16), done.
-To https://github.com/{user}/Abra-Collaboratory.wiki.git
+To https://github.com/{username}/Abra-Collaboratory.wiki.git
  + 4bba267...599d6ec master -> master (forced update)
 ```
 
