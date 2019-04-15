@@ -5,7 +5,7 @@ This repository documents our attempt to leverage native GitHub functionality to
 
 If you are a new GitHub user and/or if you'd like to better understand how we leverage GitHub tools for reproducible research, we recommend that you start by reading our [Tutorial](../../wiki/Using-GitHub-as-a-Reproducible-Research-Platform).
 
-We are also in the process of drafting some simple GitHub Reproducible Research (GRR) [guidelines](../../wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83). Please take a look and [let us know what you think](../../issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
+We are also in the process of drafting some simple GitHub Reproducible Research (GRR) [guidelines](../../wiki/Our-Reproducible-Repository-Guidelines-%F0%9F%98%83). Please take a look and [let us know what you think](../../issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
 
 Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](../../wiki) and hear more about how you implemented this framework within your research. We also encourage you to keep the Abra-Collaboratory badge (shown above) on your repo as an indicator of your intent to conduct reproducible research.
 
