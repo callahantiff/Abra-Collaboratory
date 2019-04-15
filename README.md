@@ -11,7 +11,7 @@ Let us know if you decide to use this framework, we'd love to feature you as a c
 
 ### Project Stats
 
-![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square) ![HitCount](http://hits.dwyl.com/callahantiff/Abra-Collaboratory.svg&style=flat-square) ![Github all releases](https://img.shields.io/github/downloads/callahantiff/Abra-Collaboratory/total.svg?color=dodgerblue&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/callahantiff/Abra-Collaboratory.svg?color=yellow&style=flat-square) ![Github all releases](https://img.shields.io/github/downloads/callahantiff/Abra-Collaboratory/total.svg?color=dodgerblue&style=flat-square)
 
 <br>
 
