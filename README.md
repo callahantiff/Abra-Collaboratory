@@ -3,11 +3,11 @@
 
 This repository documents our attempt to leverage native GitHub functionality to conduct reproducible research platform. Why GitHub? Honestly, because it's well-suited for out-of-the-box use as a reproducible research repository.
 
-If you are a new GitHub user and/or if you'd like to better understand how we leverage GitHub tools for reproducible research, we recommend that you start by reading our [Tutorial](https://github.com/callahantiff/Abra-Collaboratory/wiki/Using-GitHub-as-a-Reproducible-Research-Platform).
+If you are a new GitHub user and/or if you'd like to better understand how we leverage GitHub tools for reproducible research, we recommend that you start by reading our [Tutorial](../../wiki/Using-GitHub-as-a-Reproducible-Research-Platform).
 
-We are also in the process of drafting some simple GitHub Reproducible Research (GRR) [guidelines](https://github.com/callahantiff/Abra-Collaboratory/wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83). Please take a look and [let us know what you think](https://github.com/callahantiff/Abra-Collaboratory/issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
+We are also in the process of drafting some simple GitHub Reproducible Research (GRR) [guidelines](../../wiki/My-Reproducible-Repository-Guidelines-%F0%9F%98%83). Please take a look and [let us know what you think](../../issues/new?assignees=callahantiff&labels=wiki&template=wiki.md&title=Wiki%3A+Briefly+describe+task).
 
-Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](https://github.com/callahantiff/Abra-Collaboratory/wiki) and hear more about how you implemented this framework within your research. We also encourage you to keep the Abra-Collaboratory badge (shown above) on your repo as an indicator of your intent to conduct reproducible research.
+Let us know if you decide to use this framework, we'd love to feature you as a collaborator on our [wiki](../../wiki) and hear more about how you implemented this framework within your research. We also encourage you to keep the Abra-Collaboratory badge (shown above) on your repo as an indicator of your intent to conduct reproducible research.
 
 ### Project Stats
 
@@ -31,7 +31,7 @@ To get started, please follow the steps listed below:
 
 - From this project, fork the repository by clicking the "Fork" button in the upper right hand corner, as shown below.
 
-<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/development/resources/documentation/images/wiki/forking.png">
+<img src="resources/documentation/images/wiki/forking.png">
 
 - Once forked, move to the directory where you would like to download clone your fork so you have a copy locally.
 ```bash
@@ -54,7 +54,7 @@ Unpacking objects: 100% (47/47), done.
 ```
 
 - Then, go to the Wiki in your forked repository:
-<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/wiki_clone.png">
+<img src="resources/documentation/images/wiki/wiki_clone.png">
 
 - Once you have crated the wiki page, complete the final steps, in the order shown below.
 ```bash
@@ -83,7 +83,7 @@ Once you have forked the repo and the wiki page, you should then make sure that 
 
 ### Add Projects Boards 
 Unfortunately, there is not yet a way to clone GitHub Projects boards. That being said, there is still a way that you can access this information and add it to your rerpository. In order to do this, complete the following steps (as shown in the screenshot below):
-  1. Go to the "Abra-Collaboratory" [Projects boards](https://github.com/callahantiff/Abra-Collaboratory/projects)
+  1. Go to the "Abra-Collaboratory" [Projects boards](../../projects)
   2. Click and open each board and navigate to the "Menu" as shown below
   3. Inside the "Menu", click on "Copy"
   4. Select the dropdown and find your "{username}/Abra-Collaboratory"
@@ -92,14 +92,14 @@ Unfortunately, there is not yet a way to clone GitHub Projects boards. That bein
 
 Once you have performed these steps, push the green button and copy the copy. Repeat these steps for each of the four "Abra-Collaboratory" Projects boards.
 
-<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/git_projects.png">
+<img src="resources/documentation/images/wiki/git_projects.png">
 
 <br>
 
 ### Verify Issue Templates Transfer
 If you correctly cloned the "Abra-Collaboratory" repository, you should see the follow documents in your project homepage:
 
-<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/cloned_repo.png">
+<img src="resources/documentation/images/wiki/cloned_repo.png">
 
 ***
 
@@ -108,9 +108,9 @@ If you correctly cloned the "Abra-Collaboratory" repository, you should see the 
 ### Invite Collaborators
 Now that you have cloned the repository, wiki, have copied the project boards, and verified the issue templates, you are ready to customize the repo for your project. At this point we recommend that you update the README and Wiki homepage to describe your project.
 
-You are now ready to invite your collaborators! To make this process easier, we have written a template email, which you will find [here](https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/New_Collaborators_Invitation_Email.md). To use this template, update the slots denoted with "{}" and navigate to the "Preview Button". At that point, you should see something similar to the image shown below. From the "Preview", copy and paste the text directly into an email.
+You are now ready to invite your collaborators! To make this process easier, we have written a template email, which you will find [here](../../blob/master/resources/New_Collaborators_Invitation_Email.md). To use this template, update the slots denoted with "{}" and navigate to the "Preview Button". At that point, you should see something similar to the image shown below. From the "Preview", copy and paste the text directly into an email.
 
-<img src="https://github.com/callahantiff/Abra-Collaboratory/blob/master/resources/documentation/images/wiki/collaborator-email.png">
+<img src="resources/documentation/images/wiki/collaborator-email.png">
 
 _____
 
