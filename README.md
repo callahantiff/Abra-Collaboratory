@@ -41,10 +41,10 @@ $ git clone https://github.com/{username}/Abra-Collaboratory.git
 <br>
 
 ### Fork the Project Wiki
-- Fork the wiki into your local "Abra-Collaboratory" directory.
+- "Fork" the wiki by cloning the original into your local "Abra-Collaboratory" directory.
 
 ```bash
-$ git clone https://github.com/{username}/Abra-Collaboratory.wiki.git
+$ git clone https://github.com/callahantiff/Abra-Collaboratory.wiki.git
 Cloning into 'Abra-Collaboratory.wiki'...
 remote: Enumerating objects: 47, done.
 remote: Counting objects: 100% (47/47), done.
