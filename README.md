@@ -23,7 +23,7 @@ To get started, please follow the steps listed below:
 * [Fork the Project Wiki](#fork-the-project-wiki)
 * [Update hyperlinks](#update-hyperlinks)  
 * [Add Projects Boards](#add-projects-boards)
-* [Verify Issue Templates Transfer](#verify-issue-templates-transfer)
+* [Enable Issues and Verify Issue Templates Transfer](#enable-issues-and-verify-issue-templates-transfer)
 * [Invite Collaborators](#invite-collaborators)
 
 
@@ -96,7 +96,16 @@ Once you have performed these steps, push the green button and copy the copy. Re
 
 <br>
 
-### Verify Issue Templates Transfer
+### Enable Issues and Verify Issue Templates Transfer
+
+By default, cloned repositories do not have the Issues feature enabled. In order to allow creation of issues, go to the "Settings" page for your repository:
+
+<img src="resources/documentation/images/wiki/settings.png">
+
+Scroll down to the "Features" section and check the box next to "Issues":
+
+<img src="resources/documentation/images/wiki/features_issues.png">
+
 If you correctly cloned the "Abra-Collaboratory" repository, you should see the follow documents in your project homepage:
 
 <img src="resources/documentation/images/wiki/cloned_repo.png">
