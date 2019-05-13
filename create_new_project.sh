@@ -40,16 +40,15 @@ git commit -m "Updated links and assignees"
 git push
 
 git clone https://github.com/callahantiff/Abra-Collaboratory.wiki.git
-cd Abra-Collaboratory.wiki
-rm Home.md
-rm Our-Reproducible-Repository-Guidelines-😃.md
-rm Resources-📚🖥.md
-rm Using-GitHub-as-a-Reproducible-Research-Platform.md
 
+git clone https://github.com/${USER_NAME}/${PROJECT_NAME}.wiki.git
+mv Abra-Collaboratory.wiki/Our-Reproducible-Repository-Guidelines-😃.md ${USER_NAME}/${PROJECT_NAME}.wiki
+mv Abra-Collaboratory.wiki/Using-GitHub-as-a-Reproducible-Research-Platform.md ${USER_NAME}/${PROJECT_NAME}.wiki 
+cd ${USER_NAME}/${PROJECT_NAME}.wiki
 git add .
-git commit -m "Removed Abra-C specific files"
+git commit -m "Added Abra-C guidelines"
 
-git remote add wiki-fork https://github.com/${USER_NAME}/${PROJECT_NAME}.wiki.git
+# git remote add wiki-fork https://github.com/${USER_NAME}/${PROJECT_NAME}.wiki.git
 git push wiki-fork -f
 
 cd ..
