@@ -53,6 +53,7 @@ git push wiki-fork -f
 
 cd ..
 rm -rf Abra-Collaboratory.wiki
+rm -rf ${USER_NAME}/${PROJECT_NAME}.wiki
 
-echo "The next step is to copy the project templates from Abra-Collaboratory into your project."
-echo "See instructions here: https://github.com/callahantiff/Abra-Collaboratory#add-projects-boards"
+echo "The next step is to copy the project board templates."
+echo "See here for instructions: https://github.com/callahantiff/Abra-Collaboratory#add-projects-boards"
