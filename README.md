@@ -1,6 +1,8 @@
 # Abra-Collaboratory
 <img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
 
+<a href="https://doi.org/10.5281/zenodo.2851983"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2851983.svg" alt="DOI"></a>
+
 This repository documents our attempt to leverage native GitHub functionality to conduct reproducible research platform. Why GitHub? Honestly, because it's well-suited for out-of-the-box use as a reproducible research repository.
 
 If you are a new GitHub user and/or if you'd like to better understand how we leverage GitHub tools for reproducible research, we recommend that you start by reading our [Tutorial](../../wiki/Using-GitHub-as-a-Reproducible-Research-Platform).
