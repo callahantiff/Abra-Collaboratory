@@ -1,6 +1,6 @@
 # Abra-Collaboratory
 
-<img align="left" src="resources/documentation/AbraCollaboratoryQR.png" width="100" height="100">
+<img align="left" src="resources/AbraCollaboratoryQR.png" width="100" height="100">
 
 <img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
 
