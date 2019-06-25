@@ -1,4 +1,7 @@
 # Abra-Collaboratory
+
+<img align="left" src="resources/documentation/AbraCollaboratoryQR.png" width="100" height="100">
+
 <img src="https://img.shields.io/badge/ReproducibleResearch-AbraCollaboratory-magenta.svg?style=plastic" alt="git-AbraCollaboratory">
 
 <a href="https://doi.org/10.5281/zenodo.2851983"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2851983.svg" alt="DOI"></a>
